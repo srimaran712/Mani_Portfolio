@@ -292,6 +292,9 @@ body{
     width:100%;
     height:60vh;
 }
+.tail{
+    width:20px;
+}
 
 
 .education-1{
@@ -780,5 +783,8 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
 .contact-content{
     font-size:15px;
 }
+}
+.tail{
+    width:20px;
 }
   
